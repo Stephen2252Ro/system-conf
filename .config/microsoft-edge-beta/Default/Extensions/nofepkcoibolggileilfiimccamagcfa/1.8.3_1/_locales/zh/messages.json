@@ -1,0 +1,167 @@
+{
+   "about": {
+      "message": "关于"
+   },
+   "about_use": {
+      "message": "使用说明"
+   },
+   "account": {
+      "message": "会员账号"
+   },
+   "add": {
+      "message": "增加"
+   },
+   "add_on_content": {
+      "message": "追加到我的记事本"
+   },
+   "adding": {
+      "message": "正在增加..."
+   },
+   "are_you_sure_you_want_to_delete_note": {
+      "message": "确认要删除操作吗？"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "change_password": {
+      "message": "修改密码"
+   },
+   "content_fetching": {
+      "message": "正在获取记事本内容..."
+   },
+   "content_no_sync": {
+      "message": "还有未同步的内容..."
+   },
+   "content_showing": {
+      "message": "正在展示记事本内容..."
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "delete_now": {
+      "message": "马上删除"
+   },
+   "donate": {
+      "message": "捐助"
+   },
+   "email": {
+      "message": "邮箱"
+   },
+   "error_email_format": {
+      "message": "邮箱格式不正确"
+   },
+   "error_login_again": {
+      "message": "出错啦，请退出再登陆！"
+   },
+   "error_mobile_format": {
+      "message": "手机号格式不正确"
+   },
+   "error_username_format": {
+      "message": "用户名格式为3-5个字符串"
+   },
+   "export_to_file": {
+      "message": "导出文本"
+   },
+   "extension_description": {
+      "message": "支持在线同步的记事本，使您的信息保存在互联网上，可以随时查看。"
+   },
+   "extension_name": {
+      "message": "在线记事本"
+   },
+   "extension_short_name": {
+      "message": "记事本"
+   },
+   "fail_add_content": {
+      "message": "可能网络原因，增加失败!!"
+   },
+   "fail_delete": {
+      "message": "删除失败，稍候再试"
+   },
+   "fail_fetch_content": {
+      "message": "可能网络原因，获取内容失败!"
+   },
+   "forget_password": {
+      "message": "我要找回密码?"
+   },
+   "history": {
+      "message": "历史记录"
+   },
+   "is_sync_allow_logout": {
+      "message": "已同步,可以退出"
+   },
+   "login": {
+      "message": "登陆"
+   },
+   "login_now": {
+      "message": "马上登陆"
+   },
+   "login_password": {
+      "message": "登陆密码"
+   },
+   "logining": {
+      "message": "正在登陆..."
+   },
+   "logout": {
+      "message": "退出"
+   },
+   "menu": {
+      "message": "菜单"
+   },
+   "mobile": {
+      "message": "手机号"
+   },
+   "option_for_find_password": {
+      "message": "选填，用于找回密码"
+   },
+   "password_is_empty": {
+      "message": "密码不能为空"
+   },
+   "register": {
+      "message": "注册"
+   },
+   "register_now": {
+      "message": "马上注册"
+   },
+   "registering": {
+      "message": "正在提交注册..."
+   },
+   "required": {
+      "message": "必填项"
+   },
+   "required_for_find_password": {
+      "message": "必填项，用于找回密码"
+   },
+   "success_fetch_content": {
+      "message": "获取记事本内容成功！"
+   },
+   "success_login": {
+      "message": "登陆成功！"
+   },
+   "success_logout": {
+      "message": "成功退出！"
+   },
+   "success_register": {
+      "message": "注册成功！"
+   },
+   "success_sync_content": {
+      "message": "成功同步记事内容！"
+   },
+   "synchronize": {
+      "message": "云同步"
+   },
+   "synchronizing_content": {
+      "message": "正在自动同步内容..."
+   },
+   "username": {
+      "message": "用户名"
+   },
+   "username_or_password_is_empty": {
+      "message": "用户名或密码不能为空"
+   },
+   "welcome": {
+      "message": "您好"
+   },
+   "window": {
+      "message": "窗口化"
+   }
+}

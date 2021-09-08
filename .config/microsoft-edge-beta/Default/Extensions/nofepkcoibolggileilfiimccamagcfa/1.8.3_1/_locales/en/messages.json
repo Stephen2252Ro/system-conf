@@ -1,0 +1,167 @@
+{
+   "about": {
+      "message": "About"
+   },
+   "about_use": {
+      "message": "User Guide"
+   },
+   "account": {
+      "message": "Account"
+   },
+   "add": {
+      "message": "Add"
+   },
+   "add_on_content": {
+      "message": "Add it to my notebook"
+   },
+   "adding": {
+      "message": "Adding..."
+   },
+   "are_you_sure_you_want_to_delete_note": {
+      "message": "Are you sure you want to delete?"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "change_password": {
+      "message": "Revise Password"
+   },
+   "content_fetching": {
+      "message": "Getting the content..."
+   },
+   "content_no_sync": {
+      "message": "The synchronization hasn't finished yet..."
+   },
+   "content_showing": {
+      "message": "Displaying the content..."
+   },
+   "delete": {
+      "message": "Del"
+   },
+   "delete_now": {
+      "message": "Delete"
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "error_email_format": {
+      "message": "Please enter email address in correct format"
+   },
+   "error_login_again": {
+      "message": "Get error，please try to login again！"
+   },
+   "error_mobile_format": {
+      "message": "Please enter phone number in correct format"
+   },
+   "error_username_format": {
+      "message": "Please enter username within 3-5 characters"
+   },
+   "export_to_file": {
+      "message": "Export"
+   },
+   "extension_description": {
+      "message": "The Notebook support online sync up, and save your information on internet, and make it easy to look up anytime anywhere. "
+   },
+   "extension_name": {
+      "message": "Notepad Online"
+   },
+   "extension_short_name": {
+      "message": "Notepad"
+   },
+   "fail_add_content": {
+      "message": "Add new content failed because of the network issue!!"
+   },
+   "fail_delete": {
+      "message": "Delete the content failed, please try again later..."
+   },
+   "fail_fetch_content": {
+      "message": "Get the content failed because of the network issue!"
+   },
+   "forget_password": {
+      "message": "Forgot your password?"
+   },
+   "history": {
+      "message": "History"
+   },
+   "is_sync_allow_logout": {
+      "message": "Synchronized successfully,you can logout"
+   },
+   "login": {
+      "message": "Login"
+   },
+   "login_now": {
+      "message": "Login"
+   },
+   "login_password": {
+      "message": "Password"
+   },
+   "logining": {
+      "message": "Logging..."
+   },
+   "logout": {
+      "message": "Logout"
+   },
+   "menu": {
+      "message": "Menu"
+   },
+   "mobile": {
+      "message": "Mobile"
+   },
+   "option_for_find_password": {
+      "message": "Optional，use it for get your password back"
+   },
+   "password_is_empty": {
+      "message": "Password is required"
+   },
+   "register": {
+      "message": "Register"
+   },
+   "register_now": {
+      "message": "Register"
+   },
+   "registering": {
+      "message": "Submitting..."
+   },
+   "required": {
+      "message": "Required"
+   },
+   "required_for_find_password": {
+      "message": "Required, use it to get your password back"
+   },
+   "success_fetch_content": {
+      "message": "Get the content successfully！"
+   },
+   "success_login": {
+      "message": "Login successfully！"
+   },
+   "success_logout": {
+      "message": "Logout successfully！"
+   },
+   "success_register": {
+      "message": "Register successfully！"
+   },
+   "success_sync_content": {
+      "message": "Synchronize the content successfully！"
+   },
+   "synchronize": {
+      "message": "Sync"
+   },
+   "synchronizing_content": {
+      "message": "Automatically synchronizing..."
+   },
+   "username": {
+      "message": "Username"
+   },
+   "username_or_password_is_empty": {
+      "message": "Username or Password cannot be empty"
+   },
+   "welcome": {
+      "message": "Welcome"
+   },
+   "window": {
+      "message": "Window"
+   }
+}

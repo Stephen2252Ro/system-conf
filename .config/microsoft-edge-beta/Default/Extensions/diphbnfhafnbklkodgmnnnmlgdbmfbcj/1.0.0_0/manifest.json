@@ -1,0 +1,16 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "icons": {
+      "128": "baidu.png",
+      "16": "baidu.png",
+      "48": "baidu.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqTUHLiRLKQucAP69ybzbYugMmZIRBM4meT/Dat39WPXew0BU7uHIrgDZUNRR8jgI7I6KFmAKdVVl9TwlmgVq286YGwxuLSH1Q2SMWkoV2Ix2mIHJ/LOPHlNkeVeEfnRjqmC5H1gyEz7pY0P48211lCaHMYIbzwkHoBZ5shHqNt/c3cW4DBP1iyAC9KTfYIisnvGw8TrsLbhcs+nlJCV2n2eqtXe5nihuuKt6TIZk7I0klx6lJKep8kNA1wEeDXXhwpeb2QwKHKqahBzoiooLFPYGrDEE6x7PhNXQ2aWjcHYpTybFQxfbchtIhalZcply1+S+eUTac4xcnsvvm7kIBQIDAQAB",
+   "manifest_version": 2,
+   "name": "百度搜索",
+   "permissions": [ "contextMenus" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.0.0"
+}

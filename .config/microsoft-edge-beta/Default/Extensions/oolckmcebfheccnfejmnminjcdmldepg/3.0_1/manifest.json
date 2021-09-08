@@ -1,0 +1,29 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/icon16.png",
+         "32": "img/icon32.png"
+      },
+      "default_title": "__MSG_extName__"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "__MSG_extDescription__",
+   "differential_fingerprint": "1.25e062dbb6552c63977a078881f12856a6683b645a3a20b7d4a5fc0aa4f38f11",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4CK+gKjFl9J+tvmAT3IGQHs5o0bc3juVOg55Vpn2Tq2+0h91+bVKxw1FQyRKZryY/ZspDHKG0FY97dCeBfRbZSRg6dHsMOcO1NDPbj+m2Ym3kfHzlLRZTBiSfuJzofASwCUwwAdvH62iVbouuabmrZcCuBg9ULc2O+FmC1+YKlggcoB3wVmVBagq0JujB54aBzUGD8qaXfck9Qt2dEf3BS30QN0CnRPbfhN78IsaoKx2C7/ofXNOa0qr5eVhwP7YvfK9T3tuZhwLyEE41hmgAuWMfhQiG9z+3LYgSBeJ2EtGSftAvBemjjB3BuZoeVRwo8SbFC5YFCjsSrXL1Gsy/wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "http://*/*", "https://*/*", "contextMenus", "storage", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0"
+}

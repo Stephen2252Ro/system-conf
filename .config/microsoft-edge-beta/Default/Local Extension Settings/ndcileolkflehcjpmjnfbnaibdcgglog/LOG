@@ -1,0 +1,24 @@
+2021/09/09-04:37:43.327 dee Reusing MANIFEST /home/stephen/.config/microsoft-edge-beta/Default/Local Extension Settings/ndcileolkflehcjpmjnfbnaibdcgglog/MANIFEST-000001
+2021/09/09-04:37:43.327 dee Recovering log #186
+2021/09/09-04:37:43.327 dee Reusing old log /home/stephen/.config/microsoft-edge-beta/Default/Local Extension Settings/ndcileolkflehcjpmjnfbnaibdcgglog/000186.log 
+2021/09/09-04:38:46.865 def Level-0 table #190: started
+2021/09/09-04:38:46.882 df0 Current memtable full; waiting...
+2021/09/09-04:38:46.934 def Level-0 table #190: 6551047 bytes OK
+2021/09/09-04:38:46.935 def Delete type=0 #186
+2021/09/09-04:38:46.937 def Level-0 table #192: started
+2021/09/09-04:38:47.025 def Level-0 table #192: 6549917 bytes OK
+2021/09/09-04:38:47.027 def Delete type=0 #189
+2021/09/09-04:40:16.839 d87 Level-0 table #194: started
+2021/09/09-04:40:16.928 d87 Level-0 table #194: 6550107 bytes OK
+2021/09/09-04:40:16.930 d87 Delete type=0 #191
+2021/09/09-04:40:16.931 d87 Compacting 4@0 + 2@1 files
+2021/09/09-04:40:17.036 d87 Generated table #195@0: 1 keys, 6549914 bytes
+2021/09/09-04:40:17.038 d87 Generated table #196@0: 5 keys, 375 bytes
+2021/09/09-04:40:17.038 d87 Compacted 4@0 + 2@1 files => 6550289 bytes
+2021/09/09-04:40:17.039 d87 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/09/09-04:40:17.040 d87 Delete type=2 #187
+2021/09/09-04:40:17.040 d87 Delete type=2 #194
+2021/09/09-04:40:17.040 d87 Delete type=2 #185
+2021/09/09-04:40:17.040 d87 Delete type=2 #190
+2021/09/09-04:40:17.040 d87 Delete type=2 #192
+2021/09/09-04:40:17.040 d87 Delete type=2 #184

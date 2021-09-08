@@ -1,0 +1,6 @@
+2021/09/07-17:20:56.438 2f52 Creating DB /home/stephen/.config/microsoft-edge-beta/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb since it was missing.
+2021/09/07-17:20:56.443 2f52 Reusing MANIFEST /home/stephen/.config/microsoft-edge-beta/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/07-17:23:42.355 3121 Level-0 table #5: started
+2021/09/07-17:23:42.357 3121 Level-0 table #5: 2365 bytes OK
+2021/09/07-17:23:42.359 3121 Delete type=0 #3
+2021/09/07-17:23:42.359 3121 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

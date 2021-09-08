@@ -1,0 +1,24 @@
+2021/09/09-04:37:43.272 3 Reusing MANIFEST /home/stephen/.config/microsoft-edge-beta/Default/Session Storage/MANIFEST-000001
+2021/09/09-04:37:43.272 3 Recovering log #34
+2021/09/09-04:37:43.273 3 Reusing old log /home/stephen/.config/microsoft-edge-beta/Default/Session Storage/000034.log 
+2021/09/09-04:51:19.475 8 Level-0 table #38: started
+2021/09/09-04:51:19.539 8 Level-0 table #38: 23992 bytes OK
+2021/09/09-04:51:19.544 8 Delete type=0 #34
+2021/09/09-04:51:19.546 8 Compacting 4@0 + 1@1 files
+2021/09/09-04:51:19.559 8 Generated table #39@0: 2267 keys, 57021 bytes
+2021/09/09-04:51:19.560 8 Compacted 4@0 + 1@1 files => 57021 bytes
+2021/09/09-04:51:19.562 8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/09-04:51:19.565 8 Delete type=2 #35
+2021/09/09-04:51:19.566 8 Delete type=2 #38
+2021/09/09-04:51:19.566 8 Delete type=2 #33
+2021/09/09-04:51:19.566 8 Delete type=2 #30
+2021/09/09-04:51:19.567 8 Delete type=2 #27
+2021/09/09-04:51:31.610 3 Level-0 table #41: started
+2021/09/09-04:51:31.627 3 Level-0 table #41: 481927 bytes OK
+2021/09/09-04:51:31.630 3 Delete type=0 #37
+2021/09/09-04:51:37.728 8 Level-0 table #43: started
+2021/09/09-04:51:37.739 8 Level-0 table #43: 169356 bytes OK
+2021/09/09-04:51:37.741 8 Delete type=0 #40
+2021/09/09-04:52:21.418 3 Level-0 table #45: started
+2021/09/09-04:52:21.425 3 Level-0 table #45: 12120 bytes OK
+2021/09/09-04:52:21.431 3 Delete type=0 #42

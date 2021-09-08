@@ -1,0 +1,30 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "icons/16.png",
+         "64": "icons/64.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "GoinCN回国加速器"
+   },
+   "content_security_policy": "script-src 'self' ; object-src 'self'",
+   "default_locale": "en",
+   "description": "帮助海外华人一键回国加速访问中国网站和应用的回国VPN,",
+   "differential_fingerprint": "1.687f0318ca286c24bfcedf7e42ccd1f3b61bd78e055737b858eff94a065c7d53",
+   "homepage_url": "https://www.goincn.com",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "64": "icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsDnY0Daniuyq38xrMt6jdleSSCLH7/voKGLBL0o1sI7d7jKtQu5vGwzZLFIEN+EzgsE83ajt+9BFBmJPe+GSoSVrpJmIbnJN7oJxbi4Cf72CK8t60VE4nYGW+OFWPtnCZX50hOb8h7ctlfQXVqH9l/cETNe3K6sqI9R4Xh+cBdp/am7uyBa1wZh1m/BqmrHdDsend+6r+ZgggGLvlevRP+15ioVcsxh85H5g0Hd5Hfxo7NCSwXKgT6Saqp07nuvtC0TO+kwkqD4I4C2vJva20R+clO5yVJEiqqZ5E9RqgwemhME00zKVcUFqtecoQqkf5MGWyof9Qw7gHzAeYPxU5QIDAQAB",
+   "manifest_version": 2,
+   "name": "GoinCN回国加速器 - 海外华人穿梭回国免费加速解锁追剧听歌限制",
+   "permissions": [ "proxy" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.3"
+}

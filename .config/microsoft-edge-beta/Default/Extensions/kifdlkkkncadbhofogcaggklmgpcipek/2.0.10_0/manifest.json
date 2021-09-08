@@ -1,0 +1,39 @@
+{
+   "author": "Guokai Han",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "initContentScript.js" ],
+      "matches": [ "*://www.bilibili.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "js": [ "timeline.js" ],
+      "matches": [ "https://www.bilibili.com/anime/timeline*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icon/128.png",
+      "16": "icon/16.png",
+      "48": "icon/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsmnQ4iIlaUwvPY8+dd/2+3n7FMpsaQmZk4+Z0+q6YQN2SEMzbPpT3cAKOmjdNjTIXWh4EEpp0XF6Qd/d7bA7biDyLJmQVK9Y0YyjQ12CJLaMs1V4dWBhG0FhU91EBtbNQKff7x4QgOYLUVELTpCE798Qu2MHA+cCzakOc2TWiKQcVnegLLpqF/a8+auQ1Ok3krlyBwO7sPkLdxOsccTJwpl/zHZQgPWuj9OfEnI8E8eaz6Fgdz8XM3/vgv/48tNNZZqXuj5UahK7y1wgDabjjaItrY7UDlJ2Untt8ihxBmfKTOSap9RUlcBChh1JJd1yJw31LRNdmvo9xNMP6dVMUQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "2.0.10",
+   "web_accessible_resources": [ "contentScript.js" ]
+}

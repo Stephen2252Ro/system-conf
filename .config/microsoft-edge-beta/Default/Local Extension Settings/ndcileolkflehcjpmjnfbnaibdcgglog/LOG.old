@@ -1,0 +1,20 @@
+2021/09/09-03:51:00.438 e93 Reusing MANIFEST /home/stephen/.config/microsoft-edge-beta/Default/Local Extension Settings/ndcileolkflehcjpmjnfbnaibdcgglog/MANIFEST-000001
+2021/09/09-03:51:00.438 e93 Recovering log #179
+2021/09/09-03:51:00.438 e93 Reusing old log /home/stephen/.config/microsoft-edge-beta/Default/Local Extension Settings/ndcileolkflehcjpmjnfbnaibdcgglog/000179.log 
+2021/09/09-03:52:04.016 10fe Level-0 table #183: started
+2021/09/09-03:52:04.088 10fe Level-0 table #183: 6550308 bytes OK
+2021/09/09-03:52:04.090 10fe Delete type=0 #179
+2021/09/09-03:52:04.092 10fe Compacting 4@0 + 2@1 files
+2021/09/09-03:52:04.255 10fe Generated table #184@0: 1 keys, 6549908 bytes
+2021/09/09-03:52:04.258 10fe Generated table #185@0: 5 keys, 374 bytes
+2021/09/09-03:52:04.258 10fe Compacted 4@0 + 2@1 files => 6550282 bytes
+2021/09/09-03:52:04.259 10fe compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/09/09-03:52:04.260 10fe Delete type=2 #176
+2021/09/09-03:52:04.260 10fe Delete type=2 #180
+2021/09/09-03:52:04.260 10fe Delete type=2 #183
+2021/09/09-03:52:04.260 10fe Delete type=2 #173
+2021/09/09-03:52:04.260 10fe Delete type=2 #178
+2021/09/09-03:52:04.260 10fe Delete type=2 #174
+2021/09/09-03:52:30.146 efe Level-0 table #187: started
+2021/09/09-03:52:30.227 efe Level-0 table #187: 6549908 bytes OK
+2021/09/09-03:52:30.229 efe Delete type=0 #182

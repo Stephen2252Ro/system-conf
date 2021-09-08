@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "scripts/jquery.min.js", "scripts/api.js", "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon/48.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extension_name__"
+   },
+   "default_locale": "zh_CN",
+   "description": "__MSG_extension_description__",
+   "differential_fingerprint": "1.0330f7b46f689008f92a123e748c1de39442adbaada132f43395bc111ca62c94",
+   "homepage_url": "http://chenapp.com/chrome/notebook",
+   "icons": {
+      "128": "images/icon/128.png",
+      "16": "images/icon/16.png",
+      "48": "images/icon/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpUAfXtHfcrEaaGCh0YuYCUGL8nD+nRWKLbpk+1t4QL8gOJJzgN8EUHZOdXOVL2F6lMedahto90rAPJYHp4dWH93q3RPMrrdMDdwS96/2qnrkmys//TBPs1IceUCimd/9sTljSBL7ZkdOBxqKja1xy2nmQvqvk0N62+58sIi7VcQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extension_name__",
+   "permissions": [ "http://chenapp.com/*", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.3"
+}

@@ -1,0 +1,6 @@
+2021/09/08-23:24:28.937 10f25 Creating DB /home/stephen/.config/microsoft-edge-beta/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb since it was missing.
+2021/09/08-23:24:28.940 10f25 Reusing MANIFEST /home/stephen/.config/microsoft-edge-beta/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/08-23:24:31.450 10eb7 Level-0 table #5: started
+2021/09/08-23:24:31.453 10eb7 Level-0 table #5: 1099 bytes OK
+2021/09/08-23:24:31.454 10eb7 Delete type=0 #3
+2021/09/08-23:24:31.455 10eb7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

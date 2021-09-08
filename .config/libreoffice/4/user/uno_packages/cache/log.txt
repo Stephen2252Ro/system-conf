@@ -1,0 +1,2 @@
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: org.Zotero.integration.openoffice", Context = (com.sun.star.uno.XInterface) @560b62f0e0c0 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: org.Zotero.integration.openoffice", Context = (com.sun.star.uno.XInterface) @560b62f0e0c0 } }, ArgumentPosition = (short) -1 }
