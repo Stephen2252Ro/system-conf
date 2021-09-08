@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=DeepL
+Exec=/opt/microsoft/msedge-beta/microsoft-edge-beta --profile-directory=Default --app-id=engdblioaaoeieckkjjmfompocidbadi --app-url=https://www.deepl.com/zh/translator
+Icon=msedge-engdblioaaoeieckkjjmfompocidbadi-Default
+StartupWMClass=crx__engdblioaaoeieckkjjmfompocidbadi
+OnlyShowIn=Old;

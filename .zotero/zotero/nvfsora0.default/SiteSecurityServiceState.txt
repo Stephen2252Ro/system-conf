@@ -1,0 +1,5 @@
+api.zotero.org:HSTS	2	18878	1662630892497,1,1,2
+repo.zotero.org:HSTS	2	18878	1662625054917,1,1,2
+www.zotero.org:HSTS	1	18878	1662625316727,1,1,2
+raw.githubusercontent.com:HSTS	0	18878	1662625316234,1,0,2
+www.annualreviews.org:HSTS	1	18878	1646641062417,1,0,2
